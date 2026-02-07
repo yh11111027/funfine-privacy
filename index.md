@@ -112,7 +112,7 @@ We do **NOT**:
 
 ### Children's Privacy
 
-FunFine is not intended for children under 13 years of age. We do not knowingly collect or store information from children under 13. If you are a parent or guardian and believe your child has used the app, please contact us at **xiaowan19982024@163.com**.
+FunFine is not intended for children under 5 years of age. We do not knowingly collect or store information from children under 5. If you are a parent or guardian and believe your child has used the app, please contact us at **xiaowan19982024@163.com**.
 
 ### Data Retention
 
@@ -185,7 +185,7 @@ FunFine is a **playful, entertainment-focused** application designed to help hou
 
 ### 3. Eligibility
 
-You must be at least **12 years old** to use FunFine. By using the App, you represent that you meet this age requirement.
+You must be at least **4 years old** to use FunFine. By using the App, you represent that you meet this age requirement.
 
 ### 4. User Responsibilities
 
